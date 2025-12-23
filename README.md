@@ -4,7 +4,7 @@
 This is the repository for my professional cybersecurity portfolio. I specialize in **Network Penetration Testing** and **Compliance (GRC)**, focusing on helping small businesses secure their infrastructure so they can focus on their growth.
 
 ## Live Demo
-**[https://nicolinonilton.info]**
+**https://nicolinonilton.info**
 
 ---
 
@@ -24,7 +24,7 @@ Small businesses are often the most vulnerable. My mission is to bridge the gap 
 
 ## Security Disclosure
 If you discover any security vulnerability in this repository or the live site, please report it responsibly by contacting me at:
-**[me@nicolinonilton.info]**
+**me@nicolinonilton.info**
 
 ---
 
@@ -33,9 +33,9 @@ If you discover any security vulnerability in this repository or the live site, 
 * **Compliance Automation:** Python scripts for checking local network security baselines.
 
 ## Connect with Me
-- **LinkedIn:** [https://www.linkedin.com/in/uairia/]
-- **Signal:** [+670 7758 5084]
-- **Professional Website:** [nicolinonilton.info]
+- **LinkedIn:** https://www.linkedin.com/in/uairia/
+- **Signal:** +670 7758 5084
+- **Professional Website:** nicolinonilton.info
 
 ---
 *“Securing your business so you can focus on growing it.”*
