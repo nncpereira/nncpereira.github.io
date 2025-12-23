@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nilton Secured | Cybersecurity for Small Business</title>
+    <style>
+        :root {
+            --bg-color: #0d1117;
+            --text-primary: #e6edf3;
+            --accent-color: #2f81f7; /* Trust Blue */
+            --terminal-green: #39ff14;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            overflow: hidden;
+        }
+
+        .container {
+            text-align: center;
+            max-width: 600px;
+            padding: 20px;
+        }
+
+        .logo-box {
+            border: 2px solid var(--accent-color);
+            display: inline-block;
+            padding: 10px 20px;
+            margin-bottom: 30px;
+            border-radius: 4px;
+            font-weight: bold;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 1.2rem;
+            color: #8b949e;
+            line-height: 1.6;
+        }
+
+        .status-terminal {
+            background-color: #010409;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 15px;
+            text-align: left;
+            font-family: 'Courier New', Courier, monospace;
+            margin-top: 30px;
+            font-size: 0.9rem;
+        }
+
+        .cursor {
+            display: inline-block;
+            width: 10px;
+            height: 1.2rem;
+            background-color: var(--terminal-green);
+            animation: blink 1s infinite;
+            vertical-align: middle;
+        }
+
+        @keyframes blink {
+            50% { opacity: 0; }
+        }
+
+        .cta-button {
+            display: inline-block;
+            margin-top: 40px;
+            padding: 12px 30px;
+            background-color: var(--accent-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+
+        .cta-button:hover {
+            background-color: #1f6feb;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="logo-box">Nilton Secured</div>
+        
+        <h1>Your security is my priority.</h1>
+        <p>I provide specialized Network Pentesting and Compliance solutions for small businesses, ensuring you can focus on growth while I handle the defense.</p>
+
+        <div class="status-terminal">
+            <span style="color: var(--terminal-green);">$</span> initializing_portfolio...<br>
+            <span style="color: var(--terminal-green);">$</span> status: <span style="color: #d29922;">building_fortress</span><br>
+            <span style="color: var(--terminal-green);">$</span> location: niltonsecured.com<br>
+            <span style="color: var(--terminal-green);">$</span> launch_sequence: in_progress<span class="cursor"></span>
+        </div>
+
+        <a href="mailto:me@nicolinonilton.info" class="cta-button">Secure Your Business Now</a>
+    </div>
+
+</body>
+</html>
